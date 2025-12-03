@@ -1,0 +1,1 @@
+info: contains the png version of images
